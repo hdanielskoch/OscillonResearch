@@ -1,0 +1,44 @@
+plot 'output_rays_0000' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0010' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0020' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0030' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0040' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0050' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0060' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0070' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0080' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0090' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0100' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0110' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0120' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0130' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0140' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0150' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0160' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0170' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0180' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0190' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0200' u 1:3 w l
+pause '0.1'
+plot 'output_rays_0210' u 1:3 w l
+pause '0.1'

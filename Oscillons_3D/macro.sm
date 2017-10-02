@@ -1,0 +1,45 @@
+plotcars	
+# plotcars
+		expand 2
+		erase
+		data cars
+		read { t 1 c1 2  c2 3  c3 4  c4 5  c5 6  c6 7 c7 8 c8 9}
+		read { c9 10  c10 11  c11 12  c12 13  c13 14  c14 15} 
+		read { c15 16  c16 17  c17 18  c18 19  c19 20  c20 21} 
+		lim 0 10 0 10
+		connect c1 t
+		connect c2 t
+		connect c3 t
+		connect c4 t
+		connect c5 t
+		connect c6 t
+		connect c7 t
+		connect c8 t
+		connect c9 t
+		connect c10 t
+		connect c11 t
+		connect c12 t
+		connect c13 t
+		connect c14 t
+		connect c15 t
+		connect c16 t
+		connect c17 t
+		connect c18 t
+		connect c19 t
+		connect c20 t
+		box
+		xlabel x
+		ylabel t
+
+plotrho 1		
+# plotrho <outfile>
+		expand 2
+		erase
+		data $1
+		read { x 1 rho 2}
+		lim x rho
+		ltype 0
+		connect x rho
+		xlabel x
+		ylabel \rho
+		box

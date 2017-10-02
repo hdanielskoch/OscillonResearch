@@ -1,0 +1,18 @@
+Size of grid  
+     N_r = 254
+     N_theta = 14
+     N_phi = 14
+Courant factor = 0.5
+Maximum a = 10.0
+Grid extends to r_max = 250
+Dump times = 1
+Dumping data every dump_step = 10 time steps
+Initial data:
+	a = 1.0
+Parameters of Oscillons:
+	lambda = 0.0000025
+	Effective Mass = 2.0
+	alphaF = 0.9999
+type = 1
+Dump arrays into = output
+
