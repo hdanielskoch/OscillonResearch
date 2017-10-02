@@ -1,0 +1,3436 @@
+plot 'u_dis_000000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_000000.out | awk '{print $8}'`"
+plot 'u_dis_000100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_000100.out | awk '{print $8}'`"
+plot 'u_dis_000200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_000200.out | awk '{print $8}'`"
+plot 'u_dis_000300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_000300.out | awk '{print $8}'`"
+plot 'u_dis_000400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_000400.out | awk '{print $8}'`"
+plot 'u_dis_000500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_000500.out | awk '{print $8}'`"
+plot 'u_dis_000600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_000600.out | awk '{print $8}'`"
+plot 'u_dis_000700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_000700.out | awk '{print $8}'`"
+plot 'u_dis_000800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_000800.out | awk '{print $8}'`"
+plot 'u_dis_000900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_000900.out | awk '{print $8}'`"
+plot 'u_dis_001000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_001000.out | awk '{print $8}'`"
+plot 'u_dis_001100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_001100.out | awk '{print $8}'`"
+plot 'u_dis_001200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_001200.out | awk '{print $8}'`"
+plot 'u_dis_001300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_001300.out | awk '{print $8}'`"
+plot 'u_dis_001400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_001400.out | awk '{print $8}'`"
+plot 'u_dis_001500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_001500.out | awk '{print $8}'`"
+plot 'u_dis_001600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_001600.out | awk '{print $8}'`"
+plot 'u_dis_001700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_001700.out | awk '{print $8}'`"
+plot 'u_dis_001800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_001800.out | awk '{print $8}'`"
+plot 'u_dis_001900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_001900.out | awk '{print $8}'`"
+plot 'u_dis_002000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_002000.out | awk '{print $8}'`"
+plot 'u_dis_002100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_002100.out | awk '{print $8}'`"
+plot 'u_dis_002200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_002200.out | awk '{print $8}'`"
+plot 'u_dis_002300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_002300.out | awk '{print $8}'`"
+plot 'u_dis_002400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_002400.out | awk '{print $8}'`"
+plot 'u_dis_002500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_002500.out | awk '{print $8}'`"
+plot 'u_dis_002600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_002600.out | awk '{print $8}'`"
+plot 'u_dis_002700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_002700.out | awk '{print $8}'`"
+plot 'u_dis_002800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_002800.out | awk '{print $8}'`"
+plot 'u_dis_002900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_002900.out | awk '{print $8}'`"
+plot 'u_dis_003000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_003000.out | awk '{print $8}'`"
+plot 'u_dis_003100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_003100.out | awk '{print $8}'`"
+plot 'u_dis_003200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_003200.out | awk '{print $8}'`"
+plot 'u_dis_003300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_003300.out | awk '{print $8}'`"
+plot 'u_dis_003400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_003400.out | awk '{print $8}'`"
+plot 'u_dis_003500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_003500.out | awk '{print $8}'`"
+plot 'u_dis_003600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_003600.out | awk '{print $8}'`"
+plot 'u_dis_003700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_003700.out | awk '{print $8}'`"
+plot 'u_dis_003800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_003800.out | awk '{print $8}'`"
+plot 'u_dis_003900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_003900.out | awk '{print $8}'`"
+plot 'u_dis_004000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_004000.out | awk '{print $8}'`"
+plot 'u_dis_004100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_004100.out | awk '{print $8}'`"
+plot 'u_dis_004200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_004200.out | awk '{print $8}'`"
+plot 'u_dis_004300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_004300.out | awk '{print $8}'`"
+plot 'u_dis_004400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_004400.out | awk '{print $8}'`"
+plot 'u_dis_004500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_004500.out | awk '{print $8}'`"
+plot 'u_dis_004600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_004600.out | awk '{print $8}'`"
+plot 'u_dis_004700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_004700.out | awk '{print $8}'`"
+plot 'u_dis_004800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_004800.out | awk '{print $8}'`"
+plot 'u_dis_004900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_004900.out | awk '{print $8}'`"
+plot 'u_dis_005000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_005000.out | awk '{print $8}'`"
+plot 'u_dis_005100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_005100.out | awk '{print $8}'`"
+plot 'u_dis_005200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_005200.out | awk '{print $8}'`"
+plot 'u_dis_005300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_005300.out | awk '{print $8}'`"
+plot 'u_dis_005400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_005400.out | awk '{print $8}'`"
+plot 'u_dis_005500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_005500.out | awk '{print $8}'`"
+plot 'u_dis_005600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_005600.out | awk '{print $8}'`"
+plot 'u_dis_005700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_005700.out | awk '{print $8}'`"
+plot 'u_dis_005800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_005800.out | awk '{print $8}'`"
+plot 'u_dis_005900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_005900.out | awk '{print $8}'`"
+plot 'u_dis_006000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_006000.out | awk '{print $8}'`"
+plot 'u_dis_006100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_006100.out | awk '{print $8}'`"
+plot 'u_dis_006200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_006200.out | awk '{print $8}'`"
+plot 'u_dis_006300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_006300.out | awk '{print $8}'`"
+plot 'u_dis_006400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_006400.out | awk '{print $8}'`"
+plot 'u_dis_006500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_006500.out | awk '{print $8}'`"
+plot 'u_dis_006600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_006600.out | awk '{print $8}'`"
+plot 'u_dis_006700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_006700.out | awk '{print $8}'`"
+plot 'u_dis_006800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_006800.out | awk '{print $8}'`"
+plot 'u_dis_006900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_006900.out | awk '{print $8}'`"
+plot 'u_dis_007000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_007000.out | awk '{print $8}'`"
+plot 'u_dis_007100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_007100.out | awk '{print $8}'`"
+plot 'u_dis_007200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_007200.out | awk '{print $8}'`"
+plot 'u_dis_007300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_007300.out | awk '{print $8}'`"
+plot 'u_dis_007400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_007400.out | awk '{print $8}'`"
+plot 'u_dis_007500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_007500.out | awk '{print $8}'`"
+plot 'u_dis_007600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_007600.out | awk '{print $8}'`"
+plot 'u_dis_007700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_007700.out | awk '{print $8}'`"
+plot 'u_dis_007800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_007800.out | awk '{print $8}'`"
+plot 'u_dis_007900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_007900.out | awk '{print $8}'`"
+plot 'u_dis_008000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_008000.out | awk '{print $8}'`"
+plot 'u_dis_008100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_008100.out | awk '{print $8}'`"
+plot 'u_dis_008200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_008200.out | awk '{print $8}'`"
+plot 'u_dis_008300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_008300.out | awk '{print $8}'`"
+plot 'u_dis_008400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_008400.out | awk '{print $8}'`"
+plot 'u_dis_008500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_008500.out | awk '{print $8}'`"
+plot 'u_dis_008600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_008600.out | awk '{print $8}'`"
+plot 'u_dis_008700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_008700.out | awk '{print $8}'`"
+plot 'u_dis_008800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_008800.out | awk '{print $8}'`"
+plot 'u_dis_008900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_008900.out | awk '{print $8}'`"
+plot 'u_dis_009000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_009000.out | awk '{print $8}'`"
+plot 'u_dis_009100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_009100.out | awk '{print $8}'`"
+plot 'u_dis_009200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_009200.out | awk '{print $8}'`"
+plot 'u_dis_009300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_009300.out | awk '{print $8}'`"
+plot 'u_dis_009400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_009400.out | awk '{print $8}'`"
+plot 'u_dis_009500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_009500.out | awk '{print $8}'`"
+plot 'u_dis_009600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_009600.out | awk '{print $8}'`"
+plot 'u_dis_009700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_009700.out | awk '{print $8}'`"
+plot 'u_dis_009800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_009800.out | awk '{print $8}'`"
+plot 'u_dis_009900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_009900.out | awk '{print $8}'`"
+plot 'u_dis_010000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_010000.out | awk '{print $8}'`"
+plot 'u_dis_010100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_010100.out | awk '{print $8}'`"
+plot 'u_dis_010200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_010200.out | awk '{print $8}'`"
+plot 'u_dis_010300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_010300.out | awk '{print $8}'`"
+plot 'u_dis_010400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_010400.out | awk '{print $8}'`"
+plot 'u_dis_010500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_010500.out | awk '{print $8}'`"
+plot 'u_dis_010600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_010600.out | awk '{print $8}'`"
+plot 'u_dis_010700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_010700.out | awk '{print $8}'`"
+plot 'u_dis_010800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_010800.out | awk '{print $8}'`"
+plot 'u_dis_010900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_010900.out | awk '{print $8}'`"
+plot 'u_dis_011000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_011000.out | awk '{print $8}'`"
+plot 'u_dis_011100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_011100.out | awk '{print $8}'`"
+plot 'u_dis_011200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_011200.out | awk '{print $8}'`"
+plot 'u_dis_011300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_011300.out | awk '{print $8}'`"
+plot 'u_dis_011400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_011400.out | awk '{print $8}'`"
+plot 'u_dis_011500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_011500.out | awk '{print $8}'`"
+plot 'u_dis_011600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_011600.out | awk '{print $8}'`"
+plot 'u_dis_011700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_011700.out | awk '{print $8}'`"
+plot 'u_dis_011800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_011800.out | awk '{print $8}'`"
+plot 'u_dis_011900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_011900.out | awk '{print $8}'`"
+plot 'u_dis_012000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_012000.out | awk '{print $8}'`"
+plot 'u_dis_012100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_012100.out | awk '{print $8}'`"
+plot 'u_dis_012200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_012200.out | awk '{print $8}'`"
+plot 'u_dis_012300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_012300.out | awk '{print $8}'`"
+plot 'u_dis_012400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_012400.out | awk '{print $8}'`"
+plot 'u_dis_012500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_012500.out | awk '{print $8}'`"
+plot 'u_dis_012600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_012600.out | awk '{print $8}'`"
+plot 'u_dis_012700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_012700.out | awk '{print $8}'`"
+plot 'u_dis_012800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_012800.out | awk '{print $8}'`"
+plot 'u_dis_012900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_012900.out | awk '{print $8}'`"
+plot 'u_dis_013000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_013000.out | awk '{print $8}'`"
+plot 'u_dis_013100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_013100.out | awk '{print $8}'`"
+plot 'u_dis_013200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_013200.out | awk '{print $8}'`"
+plot 'u_dis_013300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_013300.out | awk '{print $8}'`"
+plot 'u_dis_013400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_013400.out | awk '{print $8}'`"
+plot 'u_dis_013500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_013500.out | awk '{print $8}'`"
+plot 'u_dis_013600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_013600.out | awk '{print $8}'`"
+plot 'u_dis_013700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_013700.out | awk '{print $8}'`"
+plot 'u_dis_013800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_013800.out | awk '{print $8}'`"
+plot 'u_dis_013900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_013900.out | awk '{print $8}'`"
+plot 'u_dis_014000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_014000.out | awk '{print $8}'`"
+plot 'u_dis_014100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_014100.out | awk '{print $8}'`"
+plot 'u_dis_014200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_014200.out | awk '{print $8}'`"
+plot 'u_dis_014300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_014300.out | awk '{print $8}'`"
+plot 'u_dis_014400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_014400.out | awk '{print $8}'`"
+plot 'u_dis_014500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_014500.out | awk '{print $8}'`"
+plot 'u_dis_014600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_014600.out | awk '{print $8}'`"
+plot 'u_dis_014700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_014700.out | awk '{print $8}'`"
+plot 'u_dis_014800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_014800.out | awk '{print $8}'`"
+plot 'u_dis_014900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_014900.out | awk '{print $8}'`"
+plot 'u_dis_015000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_015000.out | awk '{print $8}'`"
+plot 'u_dis_015100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_015100.out | awk '{print $8}'`"
+plot 'u_dis_015200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_015200.out | awk '{print $8}'`"
+plot 'u_dis_015300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_015300.out | awk '{print $8}'`"
+plot 'u_dis_015400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_015400.out | awk '{print $8}'`"
+plot 'u_dis_015500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_015500.out | awk '{print $8}'`"
+plot 'u_dis_015600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_015600.out | awk '{print $8}'`"
+plot 'u_dis_015700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_015700.out | awk '{print $8}'`"
+plot 'u_dis_015800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_015800.out | awk '{print $8}'`"
+plot 'u_dis_015900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_015900.out | awk '{print $8}'`"
+plot 'u_dis_016000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_016000.out | awk '{print $8}'`"
+plot 'u_dis_016100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_016100.out | awk '{print $8}'`"
+plot 'u_dis_016200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_016200.out | awk '{print $8}'`"
+plot 'u_dis_016300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_016300.out | awk '{print $8}'`"
+plot 'u_dis_016400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_016400.out | awk '{print $8}'`"
+plot 'u_dis_016500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_016500.out | awk '{print $8}'`"
+plot 'u_dis_016600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_016600.out | awk '{print $8}'`"
+plot 'u_dis_016700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_016700.out | awk '{print $8}'`"
+plot 'u_dis_016800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_016800.out | awk '{print $8}'`"
+plot 'u_dis_016900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_016900.out | awk '{print $8}'`"
+plot 'u_dis_017000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_017000.out | awk '{print $8}'`"
+plot 'u_dis_017100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_017100.out | awk '{print $8}'`"
+plot 'u_dis_017200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_017200.out | awk '{print $8}'`"
+plot 'u_dis_017300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_017300.out | awk '{print $8}'`"
+plot 'u_dis_017400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_017400.out | awk '{print $8}'`"
+plot 'u_dis_017500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_017500.out | awk '{print $8}'`"
+plot 'u_dis_017600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_017600.out | awk '{print $8}'`"
+plot 'u_dis_017700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_017700.out | awk '{print $8}'`"
+plot 'u_dis_017800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_017800.out | awk '{print $8}'`"
+plot 'u_dis_017900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_017900.out | awk '{print $8}'`"
+plot 'u_dis_018000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_018000.out | awk '{print $8}'`"
+plot 'u_dis_018100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_018100.out | awk '{print $8}'`"
+plot 'u_dis_018200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_018200.out | awk '{print $8}'`"
+plot 'u_dis_018300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_018300.out | awk '{print $8}'`"
+plot 'u_dis_018400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_018400.out | awk '{print $8}'`"
+plot 'u_dis_018500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_018500.out | awk '{print $8}'`"
+plot 'u_dis_018600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_018600.out | awk '{print $8}'`"
+plot 'u_dis_018700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_018700.out | awk '{print $8}'`"
+plot 'u_dis_018800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_018800.out | awk '{print $8}'`"
+plot 'u_dis_018900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_018900.out | awk '{print $8}'`"
+plot 'u_dis_019000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_019000.out | awk '{print $8}'`"
+plot 'u_dis_019100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_019100.out | awk '{print $8}'`"
+plot 'u_dis_019200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_019200.out | awk '{print $8}'`"
+plot 'u_dis_019300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_019300.out | awk '{print $8}'`"
+plot 'u_dis_019400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_019400.out | awk '{print $8}'`"
+plot 'u_dis_019500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_019500.out | awk '{print $8}'`"
+plot 'u_dis_019600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_019600.out | awk '{print $8}'`"
+plot 'u_dis_019700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_019700.out | awk '{print $8}'`"
+plot 'u_dis_019800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_019800.out | awk '{print $8}'`"
+plot 'u_dis_019900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_019900.out | awk '{print $8}'`"
+plot 'u_dis_020000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_020000.out | awk '{print $8}'`"
+plot 'u_dis_020100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_020100.out | awk '{print $8}'`"
+plot 'u_dis_020200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_020200.out | awk '{print $8}'`"
+plot 'u_dis_020300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_020300.out | awk '{print $8}'`"
+plot 'u_dis_020400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_020400.out | awk '{print $8}'`"
+plot 'u_dis_020500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_020500.out | awk '{print $8}'`"
+plot 'u_dis_020600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_020600.out | awk '{print $8}'`"
+plot 'u_dis_020700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_020700.out | awk '{print $8}'`"
+plot 'u_dis_020800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_020800.out | awk '{print $8}'`"
+plot 'u_dis_020900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_020900.out | awk '{print $8}'`"
+plot 'u_dis_021000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_021000.out | awk '{print $8}'`"
+plot 'u_dis_021100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_021100.out | awk '{print $8}'`"
+plot 'u_dis_021200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_021200.out | awk '{print $8}'`"
+plot 'u_dis_021300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_021300.out | awk '{print $8}'`"
+plot 'u_dis_021400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_021400.out | awk '{print $8}'`"
+plot 'u_dis_021500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_021500.out | awk '{print $8}'`"
+plot 'u_dis_021600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_021600.out | awk '{print $8}'`"
+plot 'u_dis_021700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_021700.out | awk '{print $8}'`"
+plot 'u_dis_021800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_021800.out | awk '{print $8}'`"
+plot 'u_dis_021900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_021900.out | awk '{print $8}'`"
+plot 'u_dis_022000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_022000.out | awk '{print $8}'`"
+plot 'u_dis_022100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_022100.out | awk '{print $8}'`"
+plot 'u_dis_022200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_022200.out | awk '{print $8}'`"
+plot 'u_dis_022300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_022300.out | awk '{print $8}'`"
+plot 'u_dis_022400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_022400.out | awk '{print $8}'`"
+plot 'u_dis_022500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_022500.out | awk '{print $8}'`"
+plot 'u_dis_022600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_022600.out | awk '{print $8}'`"
+plot 'u_dis_022700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_022700.out | awk '{print $8}'`"
+plot 'u_dis_022800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_022800.out | awk '{print $8}'`"
+plot 'u_dis_022900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_022900.out | awk '{print $8}'`"
+plot 'u_dis_023000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_023000.out | awk '{print $8}'`"
+plot 'u_dis_023100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_023100.out | awk '{print $8}'`"
+plot 'u_dis_023200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_023200.out | awk '{print $8}'`"
+plot 'u_dis_023300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_023300.out | awk '{print $8}'`"
+plot 'u_dis_023400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_023400.out | awk '{print $8}'`"
+plot 'u_dis_023500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_023500.out | awk '{print $8}'`"
+plot 'u_dis_023600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_023600.out | awk '{print $8}'`"
+plot 'u_dis_023700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_023700.out | awk '{print $8}'`"
+plot 'u_dis_023800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_023800.out | awk '{print $8}'`"
+plot 'u_dis_023900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_023900.out | awk '{print $8}'`"
+plot 'u_dis_024000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_024000.out | awk '{print $8}'`"
+plot 'u_dis_024100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_024100.out | awk '{print $8}'`"
+plot 'u_dis_024200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_024200.out | awk '{print $8}'`"
+plot 'u_dis_024300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_024300.out | awk '{print $8}'`"
+plot 'u_dis_024400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_024400.out | awk '{print $8}'`"
+plot 'u_dis_024500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_024500.out | awk '{print $8}'`"
+plot 'u_dis_024600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_024600.out | awk '{print $8}'`"
+plot 'u_dis_024700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_024700.out | awk '{print $8}'`"
+plot 'u_dis_024800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_024800.out | awk '{print $8}'`"
+plot 'u_dis_024900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_024900.out | awk '{print $8}'`"
+plot 'u_dis_025000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_025000.out | awk '{print $8}'`"
+plot 'u_dis_025100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_025100.out | awk '{print $8}'`"
+plot 'u_dis_025200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_025200.out | awk '{print $8}'`"
+plot 'u_dis_025300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_025300.out | awk '{print $8}'`"
+plot 'u_dis_025400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_025400.out | awk '{print $8}'`"
+plot 'u_dis_025500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_025500.out | awk '{print $8}'`"
+plot 'u_dis_025600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_025600.out | awk '{print $8}'`"
+plot 'u_dis_025700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_025700.out | awk '{print $8}'`"
+plot 'u_dis_025800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_025800.out | awk '{print $8}'`"
+plot 'u_dis_025900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_025900.out | awk '{print $8}'`"
+plot 'u_dis_026000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_026000.out | awk '{print $8}'`"
+plot 'u_dis_026100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_026100.out | awk '{print $8}'`"
+plot 'u_dis_026200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_026200.out | awk '{print $8}'`"
+plot 'u_dis_026300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_026300.out | awk '{print $8}'`"
+plot 'u_dis_026400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_026400.out | awk '{print $8}'`"
+plot 'u_dis_026500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_026500.out | awk '{print $8}'`"
+plot 'u_dis_026600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_026600.out | awk '{print $8}'`"
+plot 'u_dis_026700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_026700.out | awk '{print $8}'`"
+plot 'u_dis_026800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_026800.out | awk '{print $8}'`"
+plot 'u_dis_026900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_026900.out | awk '{print $8}'`"
+plot 'u_dis_027000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_027000.out | awk '{print $8}'`"
+plot 'u_dis_027100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_027100.out | awk '{print $8}'`"
+plot 'u_dis_027200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_027200.out | awk '{print $8}'`"
+plot 'u_dis_027300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_027300.out | awk '{print $8}'`"
+plot 'u_dis_027400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_027400.out | awk '{print $8}'`"
+plot 'u_dis_027500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_027500.out | awk '{print $8}'`"
+plot 'u_dis_027600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_027600.out | awk '{print $8}'`"
+plot 'u_dis_027700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_027700.out | awk '{print $8}'`"
+plot 'u_dis_027800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_027800.out | awk '{print $8}'`"
+plot 'u_dis_027900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_027900.out | awk '{print $8}'`"
+plot 'u_dis_028000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_028000.out | awk '{print $8}'`"
+plot 'u_dis_028100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_028100.out | awk '{print $8}'`"
+plot 'u_dis_028200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_028200.out | awk '{print $8}'`"
+plot 'u_dis_028300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_028300.out | awk '{print $8}'`"
+plot 'u_dis_028400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_028400.out | awk '{print $8}'`"
+plot 'u_dis_028500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_028500.out | awk '{print $8}'`"
+plot 'u_dis_028600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_028600.out | awk '{print $8}'`"
+plot 'u_dis_028700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_028700.out | awk '{print $8}'`"
+plot 'u_dis_028800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_028800.out | awk '{print $8}'`"
+plot 'u_dis_028900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_028900.out | awk '{print $8}'`"
+plot 'u_dis_029000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_029000.out | awk '{print $8}'`"
+plot 'u_dis_029100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_029100.out | awk '{print $8}'`"
+plot 'u_dis_029200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_029200.out | awk '{print $8}'`"
+plot 'u_dis_029300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_029300.out | awk '{print $8}'`"
+plot 'u_dis_029400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_029400.out | awk '{print $8}'`"
+plot 'u_dis_029500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_029500.out | awk '{print $8}'`"
+plot 'u_dis_029600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_029600.out | awk '{print $8}'`"
+plot 'u_dis_029700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_029700.out | awk '{print $8}'`"
+plot 'u_dis_029800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_029800.out | awk '{print $8}'`"
+plot 'u_dis_029900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_029900.out | awk '{print $8}'`"
+plot 'u_dis_030000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_030000.out | awk '{print $8}'`"
+plot 'u_dis_030100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_030100.out | awk '{print $8}'`"
+plot 'u_dis_030200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_030200.out | awk '{print $8}'`"
+plot 'u_dis_030300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_030300.out | awk '{print $8}'`"
+plot 'u_dis_030400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_030400.out | awk '{print $8}'`"
+plot 'u_dis_030500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_030500.out | awk '{print $8}'`"
+plot 'u_dis_030600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_030600.out | awk '{print $8}'`"
+plot 'u_dis_030700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_030700.out | awk '{print $8}'`"
+plot 'u_dis_030800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_030800.out | awk '{print $8}'`"
+plot 'u_dis_030900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_030900.out | awk '{print $8}'`"
+plot 'u_dis_031000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_031000.out | awk '{print $8}'`"
+plot 'u_dis_031100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_031100.out | awk '{print $8}'`"
+plot 'u_dis_031200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_031200.out | awk '{print $8}'`"
+plot 'u_dis_031300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_031300.out | awk '{print $8}'`"
+plot 'u_dis_031400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_031400.out | awk '{print $8}'`"
+plot 'u_dis_031500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_031500.out | awk '{print $8}'`"
+plot 'u_dis_031600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_031600.out | awk '{print $8}'`"
+plot 'u_dis_031700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_031700.out | awk '{print $8}'`"
+plot 'u_dis_031800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_031800.out | awk '{print $8}'`"
+plot 'u_dis_031900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_031900.out | awk '{print $8}'`"
+plot 'u_dis_032000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_032000.out | awk '{print $8}'`"
+plot 'u_dis_032100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_032100.out | awk '{print $8}'`"
+plot 'u_dis_032200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_032200.out | awk '{print $8}'`"
+plot 'u_dis_032300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_032300.out | awk '{print $8}'`"
+plot 'u_dis_032400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_032400.out | awk '{print $8}'`"
+plot 'u_dis_032500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_032500.out | awk '{print $8}'`"
+plot 'u_dis_032600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_032600.out | awk '{print $8}'`"
+plot 'u_dis_032700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_032700.out | awk '{print $8}'`"
+plot 'u_dis_032800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_032800.out | awk '{print $8}'`"
+plot 'u_dis_032900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_032900.out | awk '{print $8}'`"
+plot 'u_dis_033000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_033000.out | awk '{print $8}'`"
+plot 'u_dis_033100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_033100.out | awk '{print $8}'`"
+plot 'u_dis_033200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_033200.out | awk '{print $8}'`"
+plot 'u_dis_033300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_033300.out | awk '{print $8}'`"
+plot 'u_dis_033400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_033400.out | awk '{print $8}'`"
+plot 'u_dis_033500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_033500.out | awk '{print $8}'`"
+plot 'u_dis_033600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_033600.out | awk '{print $8}'`"
+plot 'u_dis_033700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_033700.out | awk '{print $8}'`"
+plot 'u_dis_033800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_033800.out | awk '{print $8}'`"
+plot 'u_dis_033900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_033900.out | awk '{print $8}'`"
+plot 'u_dis_034000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_034000.out | awk '{print $8}'`"
+plot 'u_dis_034100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_034100.out | awk '{print $8}'`"
+plot 'u_dis_034200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_034200.out | awk '{print $8}'`"
+plot 'u_dis_034300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_034300.out | awk '{print $8}'`"
+plot 'u_dis_034400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_034400.out | awk '{print $8}'`"
+plot 'u_dis_034500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_034500.out | awk '{print $8}'`"
+plot 'u_dis_034600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_034600.out | awk '{print $8}'`"
+plot 'u_dis_034700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_034700.out | awk '{print $8}'`"
+plot 'u_dis_034800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_034800.out | awk '{print $8}'`"
+plot 'u_dis_034900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_034900.out | awk '{print $8}'`"
+plot 'u_dis_035000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_035000.out | awk '{print $8}'`"
+plot 'u_dis_035100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_035100.out | awk '{print $8}'`"
+plot 'u_dis_035200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_035200.out | awk '{print $8}'`"
+plot 'u_dis_035300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_035300.out | awk '{print $8}'`"
+plot 'u_dis_035400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_035400.out | awk '{print $8}'`"
+plot 'u_dis_035500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_035500.out | awk '{print $8}'`"
+plot 'u_dis_035600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_035600.out | awk '{print $8}'`"
+plot 'u_dis_035700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_035700.out | awk '{print $8}'`"
+plot 'u_dis_035800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_035800.out | awk '{print $8}'`"
+plot 'u_dis_035900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_035900.out | awk '{print $8}'`"
+plot 'u_dis_036000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_036000.out | awk '{print $8}'`"
+plot 'u_dis_036100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_036100.out | awk '{print $8}'`"
+plot 'u_dis_036200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_036200.out | awk '{print $8}'`"
+plot 'u_dis_036300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_036300.out | awk '{print $8}'`"
+plot 'u_dis_036400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_036400.out | awk '{print $8}'`"
+plot 'u_dis_036500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_036500.out | awk '{print $8}'`"
+plot 'u_dis_036600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_036600.out | awk '{print $8}'`"
+plot 'u_dis_036700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_036700.out | awk '{print $8}'`"
+plot 'u_dis_036800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_036800.out | awk '{print $8}'`"
+plot 'u_dis_036900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_036900.out | awk '{print $8}'`"
+plot 'u_dis_037000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_037000.out | awk '{print $8}'`"
+plot 'u_dis_037100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_037100.out | awk '{print $8}'`"
+plot 'u_dis_037200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_037200.out | awk '{print $8}'`"
+plot 'u_dis_037300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_037300.out | awk '{print $8}'`"
+plot 'u_dis_037400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_037400.out | awk '{print $8}'`"
+plot 'u_dis_037500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_037500.out | awk '{print $8}'`"
+plot 'u_dis_037600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_037600.out | awk '{print $8}'`"
+plot 'u_dis_037700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_037700.out | awk '{print $8}'`"
+plot 'u_dis_037800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_037800.out | awk '{print $8}'`"
+plot 'u_dis_037900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_037900.out | awk '{print $8}'`"
+plot 'u_dis_038000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_038000.out | awk '{print $8}'`"
+plot 'u_dis_038100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_038100.out | awk '{print $8}'`"
+plot 'u_dis_038200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_038200.out | awk '{print $8}'`"
+plot 'u_dis_038300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_038300.out | awk '{print $8}'`"
+plot 'u_dis_038400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_038400.out | awk '{print $8}'`"
+plot 'u_dis_038500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_038500.out | awk '{print $8}'`"
+plot 'u_dis_038600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_038600.out | awk '{print $8}'`"
+plot 'u_dis_038700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_038700.out | awk '{print $8}'`"
+plot 'u_dis_038800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_038800.out | awk '{print $8}'`"
+plot 'u_dis_038900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_038900.out | awk '{print $8}'`"
+plot 'u_dis_039000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_039000.out | awk '{print $8}'`"
+plot 'u_dis_039100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_039100.out | awk '{print $8}'`"
+plot 'u_dis_039200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_039200.out | awk '{print $8}'`"
+plot 'u_dis_039300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_039300.out | awk '{print $8}'`"
+plot 'u_dis_039400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_039400.out | awk '{print $8}'`"
+plot 'u_dis_039500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_039500.out | awk '{print $8}'`"
+plot 'u_dis_039600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_039600.out | awk '{print $8}'`"
+plot 'u_dis_039700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_039700.out | awk '{print $8}'`"
+plot 'u_dis_039800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_039800.out | awk '{print $8}'`"
+plot 'u_dis_039900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_039900.out | awk '{print $8}'`"
+plot 'u_dis_040000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_040000.out | awk '{print $8}'`"
+plot 'u_dis_040100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_040100.out | awk '{print $8}'`"
+plot 'u_dis_040200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_040200.out | awk '{print $8}'`"
+plot 'u_dis_040300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_040300.out | awk '{print $8}'`"
+plot 'u_dis_040400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_040400.out | awk '{print $8}'`"
+plot 'u_dis_040500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_040500.out | awk '{print $8}'`"
+plot 'u_dis_040600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_040600.out | awk '{print $8}'`"
+plot 'u_dis_040700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_040700.out | awk '{print $8}'`"
+plot 'u_dis_040800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_040800.out | awk '{print $8}'`"
+plot 'u_dis_040900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_040900.out | awk '{print $8}'`"
+plot 'u_dis_041000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_041000.out | awk '{print $8}'`"
+plot 'u_dis_041100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_041100.out | awk '{print $8}'`"
+plot 'u_dis_041200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_041200.out | awk '{print $8}'`"
+plot 'u_dis_041300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_041300.out | awk '{print $8}'`"
+plot 'u_dis_041400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_041400.out | awk '{print $8}'`"
+plot 'u_dis_041500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_041500.out | awk '{print $8}'`"
+plot 'u_dis_041600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_041600.out | awk '{print $8}'`"
+plot 'u_dis_041700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_041700.out | awk '{print $8}'`"
+plot 'u_dis_041800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_041800.out | awk '{print $8}'`"
+plot 'u_dis_041900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_041900.out | awk '{print $8}'`"
+plot 'u_dis_042000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_042000.out | awk '{print $8}'`"
+plot 'u_dis_042100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_042100.out | awk '{print $8}'`"
+plot 'u_dis_042200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_042200.out | awk '{print $8}'`"
+plot 'u_dis_042300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_042300.out | awk '{print $8}'`"
+plot 'u_dis_042400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_042400.out | awk '{print $8}'`"
+plot 'u_dis_042500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_042500.out | awk '{print $8}'`"
+plot 'u_dis_042600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_042600.out | awk '{print $8}'`"
+plot 'u_dis_042700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_042700.out | awk '{print $8}'`"
+plot 'u_dis_042800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_042800.out | awk '{print $8}'`"
+plot 'u_dis_042900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_042900.out | awk '{print $8}'`"
+plot 'u_dis_043000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_043000.out | awk '{print $8}'`"
+plot 'u_dis_043100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_043100.out | awk '{print $8}'`"
+plot 'u_dis_043200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_043200.out | awk '{print $8}'`"
+plot 'u_dis_043300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_043300.out | awk '{print $8}'`"
+plot 'u_dis_043400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_043400.out | awk '{print $8}'`"
+plot 'u_dis_043500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_043500.out | awk '{print $8}'`"
+plot 'u_dis_043600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_043600.out | awk '{print $8}'`"
+plot 'u_dis_043700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_043700.out | awk '{print $8}'`"
+plot 'u_dis_043800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_043800.out | awk '{print $8}'`"
+plot 'u_dis_043900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_043900.out | awk '{print $8}'`"
+plot 'u_dis_044000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_044000.out | awk '{print $8}'`"
+plot 'u_dis_044100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_044100.out | awk '{print $8}'`"
+plot 'u_dis_044200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_044200.out | awk '{print $8}'`"
+plot 'u_dis_044300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_044300.out | awk '{print $8}'`"
+plot 'u_dis_044400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_044400.out | awk '{print $8}'`"
+plot 'u_dis_044500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_044500.out | awk '{print $8}'`"
+plot 'u_dis_044600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_044600.out | awk '{print $8}'`"
+plot 'u_dis_044700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_044700.out | awk '{print $8}'`"
+plot 'u_dis_044800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_044800.out | awk '{print $8}'`"
+plot 'u_dis_044900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_044900.out | awk '{print $8}'`"
+plot 'u_dis_045000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_045000.out | awk '{print $8}'`"
+plot 'u_dis_045100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_045100.out | awk '{print $8}'`"
+plot 'u_dis_045200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_045200.out | awk '{print $8}'`"
+plot 'u_dis_045300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_045300.out | awk '{print $8}'`"
+plot 'u_dis_045400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_045400.out | awk '{print $8}'`"
+plot 'u_dis_045500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_045500.out | awk '{print $8}'`"
+plot 'u_dis_045600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_045600.out | awk '{print $8}'`"
+plot 'u_dis_045700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_045700.out | awk '{print $8}'`"
+plot 'u_dis_045800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_045800.out | awk '{print $8}'`"
+plot 'u_dis_045900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_045900.out | awk '{print $8}'`"
+plot 'u_dis_046000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_046000.out | awk '{print $8}'`"
+plot 'u_dis_046100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_046100.out | awk '{print $8}'`"
+plot 'u_dis_046200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_046200.out | awk '{print $8}'`"
+plot 'u_dis_046300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_046300.out | awk '{print $8}'`"
+plot 'u_dis_046400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_046400.out | awk '{print $8}'`"
+plot 'u_dis_046500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_046500.out | awk '{print $8}'`"
+plot 'u_dis_046600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_046600.out | awk '{print $8}'`"
+plot 'u_dis_046700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_046700.out | awk '{print $8}'`"
+plot 'u_dis_046800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_046800.out | awk '{print $8}'`"
+plot 'u_dis_046900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_046900.out | awk '{print $8}'`"
+plot 'u_dis_047000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_047000.out | awk '{print $8}'`"
+plot 'u_dis_047100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_047100.out | awk '{print $8}'`"
+plot 'u_dis_047200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_047200.out | awk '{print $8}'`"
+plot 'u_dis_047300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_047300.out | awk '{print $8}'`"
+plot 'u_dis_047400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_047400.out | awk '{print $8}'`"
+plot 'u_dis_047500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_047500.out | awk '{print $8}'`"
+plot 'u_dis_047600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_047600.out | awk '{print $8}'`"
+plot 'u_dis_047700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_047700.out | awk '{print $8}'`"
+plot 'u_dis_047800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_047800.out | awk '{print $8}'`"
+plot 'u_dis_047900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_047900.out | awk '{print $8}'`"
+plot 'u_dis_048000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_048000.out | awk '{print $8}'`"
+plot 'u_dis_048100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_048100.out | awk '{print $8}'`"
+plot 'u_dis_048200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_048200.out | awk '{print $8}'`"
+plot 'u_dis_048300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_048300.out | awk '{print $8}'`"
+plot 'u_dis_048400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_048400.out | awk '{print $8}'`"
+plot 'u_dis_048500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_048500.out | awk '{print $8}'`"
+plot 'u_dis_048600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_048600.out | awk '{print $8}'`"
+plot 'u_dis_048700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_048700.out | awk '{print $8}'`"
+plot 'u_dis_048800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_048800.out | awk '{print $8}'`"
+plot 'u_dis_048900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_048900.out | awk '{print $8}'`"
+plot 'u_dis_049000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_049000.out | awk '{print $8}'`"
+plot 'u_dis_049100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_049100.out | awk '{print $8}'`"
+plot 'u_dis_049200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_049200.out | awk '{print $8}'`"
+plot 'u_dis_049300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_049300.out | awk '{print $8}'`"
+plot 'u_dis_049400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_049400.out | awk '{print $8}'`"
+plot 'u_dis_049500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_049500.out | awk '{print $8}'`"
+plot 'u_dis_049600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_049600.out | awk '{print $8}'`"
+plot 'u_dis_049700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_049700.out | awk '{print $8}'`"
+plot 'u_dis_049800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_049800.out | awk '{print $8}'`"
+plot 'u_dis_049900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_049900.out | awk '{print $8}'`"
+plot 'u_dis_050000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_050000.out | awk '{print $8}'`"
+plot 'u_dis_050100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_050100.out | awk '{print $8}'`"
+plot 'u_dis_050200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_050200.out | awk '{print $8}'`"
+plot 'u_dis_050300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_050300.out | awk '{print $8}'`"
+plot 'u_dis_050400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_050400.out | awk '{print $8}'`"
+plot 'u_dis_050500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_050500.out | awk '{print $8}'`"
+plot 'u_dis_050600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_050600.out | awk '{print $8}'`"
+plot 'u_dis_050700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_050700.out | awk '{print $8}'`"
+plot 'u_dis_050800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_050800.out | awk '{print $8}'`"
+plot 'u_dis_050900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_050900.out | awk '{print $8}'`"
+plot 'u_dis_051000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_051000.out | awk '{print $8}'`"
+plot 'u_dis_051100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_051100.out | awk '{print $8}'`"
+plot 'u_dis_051200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_051200.out | awk '{print $8}'`"
+plot 'u_dis_051300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_051300.out | awk '{print $8}'`"
+plot 'u_dis_051400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_051400.out | awk '{print $8}'`"
+plot 'u_dis_051500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_051500.out | awk '{print $8}'`"
+plot 'u_dis_051600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_051600.out | awk '{print $8}'`"
+plot 'u_dis_051700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_051700.out | awk '{print $8}'`"
+plot 'u_dis_051800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_051800.out | awk '{print $8}'`"
+plot 'u_dis_051900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_051900.out | awk '{print $8}'`"
+plot 'u_dis_052000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_052000.out | awk '{print $8}'`"
+plot 'u_dis_052100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_052100.out | awk '{print $8}'`"
+plot 'u_dis_052200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_052200.out | awk '{print $8}'`"
+plot 'u_dis_052300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_052300.out | awk '{print $8}'`"
+plot 'u_dis_052400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_052400.out | awk '{print $8}'`"
+plot 'u_dis_052500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_052500.out | awk '{print $8}'`"
+plot 'u_dis_052600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_052600.out | awk '{print $8}'`"
+plot 'u_dis_052700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_052700.out | awk '{print $8}'`"
+plot 'u_dis_052800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_052800.out | awk '{print $8}'`"
+plot 'u_dis_052900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_052900.out | awk '{print $8}'`"
+plot 'u_dis_053000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_053000.out | awk '{print $8}'`"
+plot 'u_dis_053100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_053100.out | awk '{print $8}'`"
+plot 'u_dis_053200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_053200.out | awk '{print $8}'`"
+plot 'u_dis_053300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_053300.out | awk '{print $8}'`"
+plot 'u_dis_053400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_053400.out | awk '{print $8}'`"
+plot 'u_dis_053500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_053500.out | awk '{print $8}'`"
+plot 'u_dis_053600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_053600.out | awk '{print $8}'`"
+plot 'u_dis_053700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_053700.out | awk '{print $8}'`"
+plot 'u_dis_053800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_053800.out | awk '{print $8}'`"
+plot 'u_dis_053900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_053900.out | awk '{print $8}'`"
+plot 'u_dis_054000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_054000.out | awk '{print $8}'`"
+plot 'u_dis_054100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_054100.out | awk '{print $8}'`"
+plot 'u_dis_054200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_054200.out | awk '{print $8}'`"
+plot 'u_dis_054300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_054300.out | awk '{print $8}'`"
+plot 'u_dis_054400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_054400.out | awk '{print $8}'`"
+plot 'u_dis_054500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_054500.out | awk '{print $8}'`"
+plot 'u_dis_054600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_054600.out | awk '{print $8}'`"
+plot 'u_dis_054700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_054700.out | awk '{print $8}'`"
+plot 'u_dis_054800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_054800.out | awk '{print $8}'`"
+plot 'u_dis_054900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_054900.out | awk '{print $8}'`"
+plot 'u_dis_055000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_055000.out | awk '{print $8}'`"
+plot 'u_dis_055100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_055100.out | awk '{print $8}'`"
+plot 'u_dis_055200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_055200.out | awk '{print $8}'`"
+plot 'u_dis_055300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_055300.out | awk '{print $8}'`"
+plot 'u_dis_055400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_055400.out | awk '{print $8}'`"
+plot 'u_dis_055500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_055500.out | awk '{print $8}'`"
+plot 'u_dis_055600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_055600.out | awk '{print $8}'`"
+plot 'u_dis_055700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_055700.out | awk '{print $8}'`"
+plot 'u_dis_055800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_055800.out | awk '{print $8}'`"
+plot 'u_dis_055900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_055900.out | awk '{print $8}'`"
+plot 'u_dis_056000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_056000.out | awk '{print $8}'`"
+plot 'u_dis_056100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_056100.out | awk '{print $8}'`"
+plot 'u_dis_056200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_056200.out | awk '{print $8}'`"
+plot 'u_dis_056300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_056300.out | awk '{print $8}'`"
+plot 'u_dis_056400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_056400.out | awk '{print $8}'`"
+plot 'u_dis_056500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_056500.out | awk '{print $8}'`"
+plot 'u_dis_056600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_056600.out | awk '{print $8}'`"
+plot 'u_dis_056700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_056700.out | awk '{print $8}'`"
+plot 'u_dis_056800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_056800.out | awk '{print $8}'`"
+plot 'u_dis_056900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_056900.out | awk '{print $8}'`"
+plot 'u_dis_057000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_057000.out | awk '{print $8}'`"
+plot 'u_dis_057100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_057100.out | awk '{print $8}'`"
+plot 'u_dis_057200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_057200.out | awk '{print $8}'`"
+plot 'u_dis_057300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_057300.out | awk '{print $8}'`"
+plot 'u_dis_057400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_057400.out | awk '{print $8}'`"
+plot 'u_dis_057500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_057500.out | awk '{print $8}'`"
+plot 'u_dis_057600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_057600.out | awk '{print $8}'`"
+plot 'u_dis_057700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_057700.out | awk '{print $8}'`"
+plot 'u_dis_057800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_057800.out | awk '{print $8}'`"
+plot 'u_dis_057900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_057900.out | awk '{print $8}'`"
+plot 'u_dis_058000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_058000.out | awk '{print $8}'`"
+plot 'u_dis_058100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_058100.out | awk '{print $8}'`"
+plot 'u_dis_058200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_058200.out | awk '{print $8}'`"
+plot 'u_dis_058300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_058300.out | awk '{print $8}'`"
+plot 'u_dis_058400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_058400.out | awk '{print $8}'`"
+plot 'u_dis_058500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_058500.out | awk '{print $8}'`"
+plot 'u_dis_058600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_058600.out | awk '{print $8}'`"
+plot 'u_dis_058700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_058700.out | awk '{print $8}'`"
+plot 'u_dis_058800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_058800.out | awk '{print $8}'`"
+plot 'u_dis_058900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_058900.out | awk '{print $8}'`"
+plot 'u_dis_059000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_059000.out | awk '{print $8}'`"
+plot 'u_dis_059100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_059100.out | awk '{print $8}'`"
+plot 'u_dis_059200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_059200.out | awk '{print $8}'`"
+plot 'u_dis_059300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_059300.out | awk '{print $8}'`"
+plot 'u_dis_059400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_059400.out | awk '{print $8}'`"
+plot 'u_dis_059500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_059500.out | awk '{print $8}'`"
+plot 'u_dis_059600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_059600.out | awk '{print $8}'`"
+plot 'u_dis_059700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_059700.out | awk '{print $8}'`"
+plot 'u_dis_059800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_059800.out | awk '{print $8}'`"
+plot 'u_dis_059900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_059900.out | awk '{print $8}'`"
+plot 'u_dis_060000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_060000.out | awk '{print $8}'`"
+plot 'u_dis_060100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_060100.out | awk '{print $8}'`"
+plot 'u_dis_060200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_060200.out | awk '{print $8}'`"
+plot 'u_dis_060300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_060300.out | awk '{print $8}'`"
+plot 'u_dis_060400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_060400.out | awk '{print $8}'`"
+plot 'u_dis_060500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_060500.out | awk '{print $8}'`"
+plot 'u_dis_060600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_060600.out | awk '{print $8}'`"
+plot 'u_dis_060700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_060700.out | awk '{print $8}'`"
+plot 'u_dis_060800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_060800.out | awk '{print $8}'`"
+plot 'u_dis_060900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_060900.out | awk '{print $8}'`"
+plot 'u_dis_061000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_061000.out | awk '{print $8}'`"
+plot 'u_dis_061100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_061100.out | awk '{print $8}'`"
+plot 'u_dis_061200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_061200.out | awk '{print $8}'`"
+plot 'u_dis_061300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_061300.out | awk '{print $8}'`"
+plot 'u_dis_061400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_061400.out | awk '{print $8}'`"
+plot 'u_dis_061500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_061500.out | awk '{print $8}'`"
+plot 'u_dis_061600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_061600.out | awk '{print $8}'`"
+plot 'u_dis_061700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_061700.out | awk '{print $8}'`"
+plot 'u_dis_061800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_061800.out | awk '{print $8}'`"
+plot 'u_dis_061900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_061900.out | awk '{print $8}'`"
+plot 'u_dis_062000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_062000.out | awk '{print $8}'`"
+plot 'u_dis_062100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_062100.out | awk '{print $8}'`"
+plot 'u_dis_062200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_062200.out | awk '{print $8}'`"
+plot 'u_dis_062300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_062300.out | awk '{print $8}'`"
+plot 'u_dis_062400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_062400.out | awk '{print $8}'`"
+plot 'u_dis_062500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_062500.out | awk '{print $8}'`"
+plot 'u_dis_062600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_062600.out | awk '{print $8}'`"
+plot 'u_dis_062700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_062700.out | awk '{print $8}'`"
+plot 'u_dis_062800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_062800.out | awk '{print $8}'`"
+plot 'u_dis_062900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_062900.out | awk '{print $8}'`"
+plot 'u_dis_063000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_063000.out | awk '{print $8}'`"
+plot 'u_dis_063100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_063100.out | awk '{print $8}'`"
+plot 'u_dis_063200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_063200.out | awk '{print $8}'`"
+plot 'u_dis_063300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_063300.out | awk '{print $8}'`"
+plot 'u_dis_063400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_063400.out | awk '{print $8}'`"
+plot 'u_dis_063500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_063500.out | awk '{print $8}'`"
+plot 'u_dis_063600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_063600.out | awk '{print $8}'`"
+plot 'u_dis_063700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_063700.out | awk '{print $8}'`"
+plot 'u_dis_063800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_063800.out | awk '{print $8}'`"
+plot 'u_dis_063900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_063900.out | awk '{print $8}'`"
+plot 'u_dis_064000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_064000.out | awk '{print $8}'`"
+plot 'u_dis_064100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_064100.out | awk '{print $8}'`"
+plot 'u_dis_064200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_064200.out | awk '{print $8}'`"
+plot 'u_dis_064300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_064300.out | awk '{print $8}'`"
+plot 'u_dis_064400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_064400.out | awk '{print $8}'`"
+plot 'u_dis_064500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_064500.out | awk '{print $8}'`"
+plot 'u_dis_064600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_064600.out | awk '{print $8}'`"
+plot 'u_dis_064700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_064700.out | awk '{print $8}'`"
+plot 'u_dis_064800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_064800.out | awk '{print $8}'`"
+plot 'u_dis_064900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_064900.out | awk '{print $8}'`"
+plot 'u_dis_065000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_065000.out | awk '{print $8}'`"
+plot 'u_dis_065100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_065100.out | awk '{print $8}'`"
+plot 'u_dis_065200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_065200.out | awk '{print $8}'`"
+plot 'u_dis_065300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_065300.out | awk '{print $8}'`"
+plot 'u_dis_065400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_065400.out | awk '{print $8}'`"
+plot 'u_dis_065500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_065500.out | awk '{print $8}'`"
+plot 'u_dis_065600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_065600.out | awk '{print $8}'`"
+plot 'u_dis_065700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_065700.out | awk '{print $8}'`"
+plot 'u_dis_065800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_065800.out | awk '{print $8}'`"
+plot 'u_dis_065900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_065900.out | awk '{print $8}'`"
+plot 'u_dis_066000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_066000.out | awk '{print $8}'`"
+plot 'u_dis_066100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_066100.out | awk '{print $8}'`"
+plot 'u_dis_066200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_066200.out | awk '{print $8}'`"
+plot 'u_dis_066300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_066300.out | awk '{print $8}'`"
+plot 'u_dis_066400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_066400.out | awk '{print $8}'`"
+plot 'u_dis_066500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_066500.out | awk '{print $8}'`"
+plot 'u_dis_066600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_066600.out | awk '{print $8}'`"
+plot 'u_dis_066700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_066700.out | awk '{print $8}'`"
+plot 'u_dis_066800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_066800.out | awk '{print $8}'`"
+plot 'u_dis_066900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_066900.out | awk '{print $8}'`"
+plot 'u_dis_067000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_067000.out | awk '{print $8}'`"
+plot 'u_dis_067100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_067100.out | awk '{print $8}'`"
+plot 'u_dis_067200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_067200.out | awk '{print $8}'`"
+plot 'u_dis_067300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_067300.out | awk '{print $8}'`"
+plot 'u_dis_067400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_067400.out | awk '{print $8}'`"
+plot 'u_dis_067500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_067500.out | awk '{print $8}'`"
+plot 'u_dis_067600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_067600.out | awk '{print $8}'`"
+plot 'u_dis_067700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_067700.out | awk '{print $8}'`"
+plot 'u_dis_067800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_067800.out | awk '{print $8}'`"
+plot 'u_dis_067900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_067900.out | awk '{print $8}'`"
+plot 'u_dis_068000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_068000.out | awk '{print $8}'`"
+plot 'u_dis_068100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_068100.out | awk '{print $8}'`"
+plot 'u_dis_068200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_068200.out | awk '{print $8}'`"
+plot 'u_dis_068300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_068300.out | awk '{print $8}'`"
+plot 'u_dis_068400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_068400.out | awk '{print $8}'`"
+plot 'u_dis_068500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_068500.out | awk '{print $8}'`"
+plot 'u_dis_068600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_068600.out | awk '{print $8}'`"
+plot 'u_dis_068700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_068700.out | awk '{print $8}'`"
+plot 'u_dis_068800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_068800.out | awk '{print $8}'`"
+plot 'u_dis_068900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_068900.out | awk '{print $8}'`"
+plot 'u_dis_069000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_069000.out | awk '{print $8}'`"
+plot 'u_dis_069100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_069100.out | awk '{print $8}'`"
+plot 'u_dis_069200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_069200.out | awk '{print $8}'`"
+plot 'u_dis_069300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_069300.out | awk '{print $8}'`"
+plot 'u_dis_069400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_069400.out | awk '{print $8}'`"
+plot 'u_dis_069500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_069500.out | awk '{print $8}'`"
+plot 'u_dis_069600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_069600.out | awk '{print $8}'`"
+plot 'u_dis_069700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_069700.out | awk '{print $8}'`"
+plot 'u_dis_069800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_069800.out | awk '{print $8}'`"
+plot 'u_dis_069900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_069900.out | awk '{print $8}'`"
+plot 'u_dis_070000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_070000.out | awk '{print $8}'`"
+plot 'u_dis_070100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_070100.out | awk '{print $8}'`"
+plot 'u_dis_070200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_070200.out | awk '{print $8}'`"
+plot 'u_dis_070300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_070300.out | awk '{print $8}'`"
+plot 'u_dis_070400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_070400.out | awk '{print $8}'`"
+plot 'u_dis_070500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_070500.out | awk '{print $8}'`"
+plot 'u_dis_070600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_070600.out | awk '{print $8}'`"
+plot 'u_dis_070700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_070700.out | awk '{print $8}'`"
+plot 'u_dis_070800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_070800.out | awk '{print $8}'`"
+plot 'u_dis_070900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_070900.out | awk '{print $8}'`"
+plot 'u_dis_071000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_071000.out | awk '{print $8}'`"
+plot 'u_dis_071100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_071100.out | awk '{print $8}'`"
+plot 'u_dis_071200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_071200.out | awk '{print $8}'`"
+plot 'u_dis_071300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_071300.out | awk '{print $8}'`"
+plot 'u_dis_071400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_071400.out | awk '{print $8}'`"
+plot 'u_dis_071500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_071500.out | awk '{print $8}'`"
+plot 'u_dis_071600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_071600.out | awk '{print $8}'`"
+plot 'u_dis_071700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_071700.out | awk '{print $8}'`"
+plot 'u_dis_071800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_071800.out | awk '{print $8}'`"
+plot 'u_dis_071900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_071900.out | awk '{print $8}'`"
+plot 'u_dis_072000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_072000.out | awk '{print $8}'`"
+plot 'u_dis_072100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_072100.out | awk '{print $8}'`"
+plot 'u_dis_072200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_072200.out | awk '{print $8}'`"
+plot 'u_dis_072300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_072300.out | awk '{print $8}'`"
+plot 'u_dis_072400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_072400.out | awk '{print $8}'`"
+plot 'u_dis_072500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_072500.out | awk '{print $8}'`"
+plot 'u_dis_072600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_072600.out | awk '{print $8}'`"
+plot 'u_dis_072700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_072700.out | awk '{print $8}'`"
+plot 'u_dis_072800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_072800.out | awk '{print $8}'`"
+plot 'u_dis_072900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_072900.out | awk '{print $8}'`"
+plot 'u_dis_073000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_073000.out | awk '{print $8}'`"
+plot 'u_dis_073100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_073100.out | awk '{print $8}'`"
+plot 'u_dis_073200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_073200.out | awk '{print $8}'`"
+plot 'u_dis_073300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_073300.out | awk '{print $8}'`"
+plot 'u_dis_073400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_073400.out | awk '{print $8}'`"
+plot 'u_dis_073500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_073500.out | awk '{print $8}'`"
+plot 'u_dis_073600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_073600.out | awk '{print $8}'`"
+plot 'u_dis_073700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_073700.out | awk '{print $8}'`"
+plot 'u_dis_073800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_073800.out | awk '{print $8}'`"
+plot 'u_dis_073900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_073900.out | awk '{print $8}'`"
+plot 'u_dis_074000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_074000.out | awk '{print $8}'`"
+plot 'u_dis_074100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_074100.out | awk '{print $8}'`"
+plot 'u_dis_074200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_074200.out | awk '{print $8}'`"
+plot 'u_dis_074300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_074300.out | awk '{print $8}'`"
+plot 'u_dis_074400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_074400.out | awk '{print $8}'`"
+plot 'u_dis_074500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_074500.out | awk '{print $8}'`"
+plot 'u_dis_074600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_074600.out | awk '{print $8}'`"
+plot 'u_dis_074700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_074700.out | awk '{print $8}'`"
+plot 'u_dis_074800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_074800.out | awk '{print $8}'`"
+plot 'u_dis_074900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_074900.out | awk '{print $8}'`"
+plot 'u_dis_075000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_075000.out | awk '{print $8}'`"
+plot 'u_dis_075100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_075100.out | awk '{print $8}'`"
+plot 'u_dis_075200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_075200.out | awk '{print $8}'`"
+plot 'u_dis_075300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_075300.out | awk '{print $8}'`"
+plot 'u_dis_075400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_075400.out | awk '{print $8}'`"
+plot 'u_dis_075500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_075500.out | awk '{print $8}'`"
+plot 'u_dis_075600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_075600.out | awk '{print $8}'`"
+plot 'u_dis_075700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_075700.out | awk '{print $8}'`"
+plot 'u_dis_075800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_075800.out | awk '{print $8}'`"
+plot 'u_dis_075900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_075900.out | awk '{print $8}'`"
+plot 'u_dis_076000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_076000.out | awk '{print $8}'`"
+plot 'u_dis_076100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_076100.out | awk '{print $8}'`"
+plot 'u_dis_076200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_076200.out | awk '{print $8}'`"
+plot 'u_dis_076300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_076300.out | awk '{print $8}'`"
+plot 'u_dis_076400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_076400.out | awk '{print $8}'`"
+plot 'u_dis_076500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_076500.out | awk '{print $8}'`"
+plot 'u_dis_076600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_076600.out | awk '{print $8}'`"
+plot 'u_dis_076700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_076700.out | awk '{print $8}'`"
+plot 'u_dis_076800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_076800.out | awk '{print $8}'`"
+plot 'u_dis_076900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_076900.out | awk '{print $8}'`"
+plot 'u_dis_077000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_077000.out | awk '{print $8}'`"
+plot 'u_dis_077100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_077100.out | awk '{print $8}'`"
+plot 'u_dis_077200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_077200.out | awk '{print $8}'`"
+plot 'u_dis_077300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_077300.out | awk '{print $8}'`"
+plot 'u_dis_077400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_077400.out | awk '{print $8}'`"
+plot 'u_dis_077500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_077500.out | awk '{print $8}'`"
+plot 'u_dis_077600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_077600.out | awk '{print $8}'`"
+plot 'u_dis_077700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_077700.out | awk '{print $8}'`"
+plot 'u_dis_077800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_077800.out | awk '{print $8}'`"
+plot 'u_dis_077900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_077900.out | awk '{print $8}'`"
+plot 'u_dis_078000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_078000.out | awk '{print $8}'`"
+plot 'u_dis_078100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_078100.out | awk '{print $8}'`"
+plot 'u_dis_078200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_078200.out | awk '{print $8}'`"
+plot 'u_dis_078300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_078300.out | awk '{print $8}'`"
+plot 'u_dis_078400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_078400.out | awk '{print $8}'`"
+plot 'u_dis_078500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_078500.out | awk '{print $8}'`"
+plot 'u_dis_078600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_078600.out | awk '{print $8}'`"
+plot 'u_dis_078700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_078700.out | awk '{print $8}'`"
+plot 'u_dis_078800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_078800.out | awk '{print $8}'`"
+plot 'u_dis_078900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_078900.out | awk '{print $8}'`"
+plot 'u_dis_079000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_079000.out | awk '{print $8}'`"
+plot 'u_dis_079100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_079100.out | awk '{print $8}'`"
+plot 'u_dis_079200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_079200.out | awk '{print $8}'`"
+plot 'u_dis_079300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_079300.out | awk '{print $8}'`"
+plot 'u_dis_079400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_079400.out | awk '{print $8}'`"
+plot 'u_dis_079500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_079500.out | awk '{print $8}'`"
+plot 'u_dis_079600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_079600.out | awk '{print $8}'`"
+plot 'u_dis_079700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_079700.out | awk '{print $8}'`"
+plot 'u_dis_079800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_079800.out | awk '{print $8}'`"
+plot 'u_dis_079900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_079900.out | awk '{print $8}'`"
+plot 'u_dis_080000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_080000.out | awk '{print $8}'`"
+plot 'u_dis_080100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_080100.out | awk '{print $8}'`"
+plot 'u_dis_080200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_080200.out | awk '{print $8}'`"
+plot 'u_dis_080300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_080300.out | awk '{print $8}'`"
+plot 'u_dis_080400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_080400.out | awk '{print $8}'`"
+plot 'u_dis_080500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_080500.out | awk '{print $8}'`"
+plot 'u_dis_080600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_080600.out | awk '{print $8}'`"
+plot 'u_dis_080700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_080700.out | awk '{print $8}'`"
+plot 'u_dis_080800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_080800.out | awk '{print $8}'`"
+plot 'u_dis_080900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_080900.out | awk '{print $8}'`"
+plot 'u_dis_081000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_081000.out | awk '{print $8}'`"
+plot 'u_dis_081100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_081100.out | awk '{print $8}'`"
+plot 'u_dis_081200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_081200.out | awk '{print $8}'`"
+plot 'u_dis_081300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_081300.out | awk '{print $8}'`"
+plot 'u_dis_081400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_081400.out | awk '{print $8}'`"
+plot 'u_dis_081500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_081500.out | awk '{print $8}'`"
+plot 'u_dis_081600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_081600.out | awk '{print $8}'`"
+plot 'u_dis_081700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_081700.out | awk '{print $8}'`"
+plot 'u_dis_081800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_081800.out | awk '{print $8}'`"
+plot 'u_dis_081900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_081900.out | awk '{print $8}'`"
+plot 'u_dis_082000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_082000.out | awk '{print $8}'`"
+plot 'u_dis_082100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_082100.out | awk '{print $8}'`"
+plot 'u_dis_082200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_082200.out | awk '{print $8}'`"
+plot 'u_dis_082300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_082300.out | awk '{print $8}'`"
+plot 'u_dis_082400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_082400.out | awk '{print $8}'`"
+plot 'u_dis_082500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_082500.out | awk '{print $8}'`"
+plot 'u_dis_082600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_082600.out | awk '{print $8}'`"
+plot 'u_dis_082700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_082700.out | awk '{print $8}'`"
+plot 'u_dis_082800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_082800.out | awk '{print $8}'`"
+plot 'u_dis_082900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_082900.out | awk '{print $8}'`"
+plot 'u_dis_083000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_083000.out | awk '{print $8}'`"
+plot 'u_dis_083100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_083100.out | awk '{print $8}'`"
+plot 'u_dis_083200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_083200.out | awk '{print $8}'`"
+plot 'u_dis_083300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_083300.out | awk '{print $8}'`"
+plot 'u_dis_083400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_083400.out | awk '{print $8}'`"
+plot 'u_dis_083500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_083500.out | awk '{print $8}'`"
+plot 'u_dis_083600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_083600.out | awk '{print $8}'`"
+plot 'u_dis_083700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_083700.out | awk '{print $8}'`"
+plot 'u_dis_083800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_083800.out | awk '{print $8}'`"
+plot 'u_dis_083900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_083900.out | awk '{print $8}'`"
+plot 'u_dis_084000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_084000.out | awk '{print $8}'`"
+plot 'u_dis_084100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_084100.out | awk '{print $8}'`"
+plot 'u_dis_084200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_084200.out | awk '{print $8}'`"
+plot 'u_dis_084300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_084300.out | awk '{print $8}'`"
+plot 'u_dis_084400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_084400.out | awk '{print $8}'`"
+plot 'u_dis_084500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_084500.out | awk '{print $8}'`"
+plot 'u_dis_084600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_084600.out | awk '{print $8}'`"
+plot 'u_dis_084700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_084700.out | awk '{print $8}'`"
+plot 'u_dis_084800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_084800.out | awk '{print $8}'`"
+plot 'u_dis_084900.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_084900.out | awk '{print $8}'`"
+plot 'u_dis_085000.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_085000.out | awk '{print $8}'`"
+plot 'u_dis_085100.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_085100.out | awk '{print $8}'`"
+plot 'u_dis_085200.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_085200.out | awk '{print $8}'`"
+plot 'u_dis_085300.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_085300.out | awk '{print $8}'`"
+plot 'u_dis_085400.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_085400.out | awk '{print $8}'`"
+plot 'u_dis_085500.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_085500.out | awk '{print $8}'`"
+plot 'u_dis_085600.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_085600.out | awk '{print $8}'`"
+plot 'u_dis_085700.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_085700.out | awk '{print $8}'`"
+plot 'u_dis_085800.out' u 1:2 w l
+pause '0.1'
+set yrange[-0.5:0.5]
+set title "`head -1 u_dis_085800.out | awk '{print $8}'`"

@@ -1,0 +1,24 @@
+Minimum position:
+0
+Maximum position:
+400
+Number of position grid points:
+800
+Maximum scale factor a:
+39.8
+Courant condition:
+0.10
+Alpha Factor:
+0.9999
+Effective Mass:
+2.0
+lambda (dimensionless parameter):
+0.0000025
+Maximum Grid Factor:
+4
+File Increment:
+100
+H implementation
+1
+Initial Mean Psi:
+0.34
